@@ -1,4 +1,4 @@
-# desacore
+## desacore
 Reposity for game code.
 
 To set up the code for your own computer follow the steps that show you how to set up git on the homepage. Afterwards
@@ -18,4 +18,14 @@ to see who's editted what, when it was edited, and what's been change.
 
 Remember that your code doesn't automatically change. Whenever you're about to start coding, make sure you check for updates
 by pulling info from the repo, it should keep yours up to date.
+
+## Or theres the easy way
+Type into terminal:
+  mkdir desacore
+  cd desacore
+  git init
+  git remote add origin https://github.com/bstoriz/desacore.git
+  git pull origin master
+  
+Just do it one after another into terminal.
 
