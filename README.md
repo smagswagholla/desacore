@@ -1,5 +1,4 @@
-## desacore
-Reposity for game code.
+## Reposity for game code.
 
 To set up the code for your own computer follow the steps that show you how to set up git on the homepage. Afterwards
 you need to create your own local repository (on your computer) to store all of the files. 
@@ -20,12 +19,15 @@ Remember that your code doesn't automatically change. Whenever you're about to s
 by pulling info from the repo, it should keep yours up to date.
 
 ## Or theres the easy way
-Type into terminal:
+### Type into terminal:
+
   mkdir desacore
-  cd desacore
-  git init
-  git remote add origin https://github.com/bstoriz/desacore.git
-  git pull origin master
   
-Just do it one after another into terminal.
+  cd desacore
+  
+  git init
+  
+  git remote add origin https://github.com/bstoriz/desacore.git
+  
+  git pull origin master
 
